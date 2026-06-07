@@ -1,6 +1,8 @@
 # htobit
 Heteroscedastic Tobit Regression Use htobit With (In) R Software
 
+https://www.youtube.com/watch?v=9R7bdfF5VeM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
